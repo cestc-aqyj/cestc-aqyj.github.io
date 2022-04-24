@@ -1,0 +1,1 @@
+import{F as t,L as n,W as o,X as s,a2 as a,Q as _}from"./vue.ff4e7f04.js";import{_ as i}from"./index.d3059f04.js";import"./hongluan.43ef0c0e.js";import"./highlight.d526497d.js";import"./hongluan-icons.f37f1340.js";const c={},e=_("section",null,null,-1);function m(p,f){const r=t("right-nav");return n(),o(a,null,[e,s(r)],64)}var x=i(c,[["render",m]]);export{x as default};
